@@ -1,0 +1,76 @@
+/* Smiliesticks.css */
+
+#header{
+    color: red;
+    font-size: 36px;
+    margin: auto;
+    text-align: center;
+    font-weight: bold;
+    font-family: fantasy;
+    border: 2px solid black;
+    width: 600px;
+  
+}
+
+h2 {
+    color: red;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+}
+
+p {
+    color: black;
+    font-size: 14px;
+}
+
+#email {
+    background-color: red;
+    color: black;
+    text-align: center;
+    border: 2px solid black
+}
+
+h6 {
+text-align: right;
+font-weight: lighter;
+font-style: italic;
+
+}
+
+#description {
+  background-color: whitesmoke;
+  border: 2px solid whitesmoke;
+  border-radius: 10px;
+  width: 800px;
+  margin: auto;
+}
+
+footer {
+  background-color: whitesmoke;
+  padding: 25px;
+}
+.nav {
+    background-color: whitesmoke;
+    overflow: hidden;
+    text-align: center;
+    box-align: center;
+    padding: 25px;
+  }
+  
+ 
+  .nav a {
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline;
+    padding: 12px;
+  }
+  
+  
+  .nav a:hover {
+    color: red;
+  }
+  
